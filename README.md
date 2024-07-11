@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/shubhamraut789" target="blank"><img src="https://img.shields.io/twitter/follow/shubhamraut789?logo=twitter&style=for-the-badge" alt="shubhamraut789" /></a> </p>
 
-- 📝 I regularly write articles on [https://medium.com/@shubhamraut789](https://medium.com/@shubhamraut789)
+- 📝 I regularly write articles on [medium](https://medium.com/@shubhamraut789)
 
 - 📫 How to reach me **shubhamraut9860@gmail.com**
 
