@@ -11,7 +11,7 @@
 💻 Currently learning Python backend development and building projects for my portfolio  
 📫 You can connect with me👉 **[linkedin](https://www.linkedin.com/in/shubhamraut789/)**  
 📝 I regularly write articles on [medium](https://medium.com/@shubhamraut789)   
-📄 Know about my experiences 👉 [Resume]([https://drive.google.com/file/d/1Xwqwtv1qLnDIsvxvcyiGDkanXZUJeurq/view?usp=sharing](https://drive.google.com/file/d/1DMkcCzdVH7eWQ_4edmuYXInpVC7tVAhz/view?usp=drive_link)) 
+📄 Know about my experiences 👉 [Resume](https://drive.google.com/file/d/1DMkcCzdVH7eWQ_4edmuYXInpVC7tVAhz/view?usp=drive_link) 
 
 <!-- ## 🚀 Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=20>
 
